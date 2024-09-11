@@ -1,5 +1,5 @@
 # CSC 360 - Operating Systems
-Assignments from an Operating Systems class in Summer 2024.
+Assignments from an Operating Systems class in Summer 2024. See each assignment's readme for details on how to compile and run each program.
 
 ### Assignment 1
 Program simulating a terminal which can run different commands to create, pause, start, and terminate processes.
