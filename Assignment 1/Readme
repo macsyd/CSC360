@@ -1,0 +1,9 @@
+V00978481
+A02
+Sydney Macdonald
+
+To compile the Pman code, use the command `make` in the directory where main.c, linked_list.c, and linked_list.h are. To run the code, use the command `./pman`.
+
+To start a new background process with Pman, use the command `bg ./foo` where foo is the name of the executable you wish to run.
+
+The `bglist`, `bgkill`, `bgstart`, and `bgstop` commands can be run as specified in the assignment description (the command followed by the PID of the child process).

@@ -1,0 +1,5 @@
+V00978481
+A02
+Sydney Macdonald
+
+To compile the ACS code, use the command `make` in the directory where main.c, queue.c, and queue.h are (/p2). To run the code, use the command `./ACS <path to input file>`.

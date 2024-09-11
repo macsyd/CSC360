@@ -1,0 +1,11 @@
+V00978481
+A02
+Sydney Macdonald
+
+To compile all four executables, run the command `make` in the assignment3 directory which will produce four executables: `diskinfo`, `disklist`, `diskget`, and `diskput`.
+
+To compile each executable one at a time, run:
+    `make info` for `diskinfo`
+    `make list` for `disklist`
+    `make get` for `diskget` and
+    `make put` for `diskput`
